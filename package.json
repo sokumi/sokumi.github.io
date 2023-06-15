@@ -9,7 +9,9 @@
     "chart.js": "^2.8.0",
     "jquery": "^3.4.1",
     "perfect-scrollbar": "^1.4.0",
-    "popper.js": "^1.15.0"
+    "popper.js": "^1.15.0",
+	  "@fullcalendar/core": "^6.1.4",
+    "@fullcalendar/daygrid": "^6.1.4"
   },
   "devDependencies": {
     "browser-sync": "^2.26.7",
